@@ -1,4 +1,4 @@
-sample  fq1     condition
+sample  fq1 condition
 DHS_fruit	fastq/SRR2982681_1.fastq	treatment
 DHS_naked	fastq/SRR3480814_1.fastq	control
 DHS_fruit_2	fastq/SRR2982680_1.fastq	treatment
