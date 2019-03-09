@@ -1,5 +1,14 @@
-sample  fq1 condition
-DHS_fruit	fastq/SRR2982681_1.fastq	treatment
-DHS_naked	fastq/SRR3480814_1.fastq	control
-DHS_fruit_2	fastq/SRR2982680_1.fastq	treatment
-DHS_naked_2	fastq/SRR3480814_1.fastq	control
+sampleID        condition       type    R1      R2
+WT_A_1  WT      mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HTVM5BBXX_103353-001-015_CGTACTAG-GCGGATGT_L005_R1.fastq.gz  /exports/humgen/jihed/morc3_$
+WT_A_2  WT      mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HTVM5BBXX_103353-001-016_AGGCAGAA-GCGGATGT_L005_R1.fastq.gz  /exports/humgen/jihed/morc3_$
+WT_B_1  WT      mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HVLN7BBXX_103353-001-015_CGTACTAG-GCGGATGT_L003_R1.fastq.gz  /exports/humgen/jihed/morc3_$
+WT_B_3  WT      mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HVLN7BBXX_103353-001-016_AGGCAGAA-GCGGATGT_L003_R1.fastq.gz  /exports/humgen/jihed/morc3_$
+WT_C_1  WT      mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HVLV3BBXX_103353-001-015_CGTACTAG-GCGGATGT_L007_R1.fastq.gz  /exports/humgen/jihed/morc3_$
+WT_C_3  WT      mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HVLV3BBXX_103353-001-016_AGGCAGAA-GCGGATGT_L007_R1.fastq.gz  /exports/humgen/jihed/morc3_$
+Morc3_A_1       Morc3   mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HTVM5BBXX_103353-001-017_TAAGGCGA-ATCTCTGT_L005_R1.fastq.gz  /exports/humgen/jihe$
+Morc3_A_2       Morc3   mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HTVM5BBXX_103353-001-018_CGTACTAG-ATCTCTGT_L005_R1.fastq.gz  /exports/humgen/jihe$
+Morc3_B_1       Morc3   mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HVLN7BBXX_103353-001-017_TAAGGCGA-ATCTCTGT_L003_R1.fastq.gz  /exports/humgen/jihe$
+Morc3_B_2       Morc3   mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HVLN7BBXX_103353-001-018_CGTACTAG-ATCTCTGT_L003_R1.fastq.gz  /exports/humgen/jihe$
+Morc3_B_1       Morc3   mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HVLV3BBXX_103353-001-017_TAAGGCGA-ATCTCTGT_L007_R1.fastq.gz  /exports/humgen/jihe$
+Morc3_B_2       Morc3   mESC    /exports/humgen/jihed/morc3_chip_atac_rna_seq_fvb_analysis/ATAC-seq-snakemake/data/HVLV3BBXX_103353-001-018_CGTACTAG-ATCTCTGT_L007_R1.fastq.gz  /exports/humgen/jihe$
+
