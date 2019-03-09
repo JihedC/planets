@@ -1,7 +1,7 @@
-sampleID	fq1	condition
-MORC3_1	SRR3185983_1.fastq.gz	treatment
-MORC3_2	SRR3185984_1.fastq.gz	treatment
-MORC3_3	SRR3185985_1.fastq.gz	treatment
-input_1	SRR3185986_1.fastq.gz	control
-input_2	SRR3185987_1.fastq.gz 	control
-input_3	SRR3185988_1.fastq.gz 	control
+sample	fq1	condition
+ChIP1	data/SRR3185983_1.fastq.gz	treatment
+ChIP2	data/SRR3185984_1.fastq.gz	treatment
+ChIP3	data/SRR3185985_1.fastq.gz	treatment
+ChIP4	data/SRR3185986_1.fastq.gz	control
+ChIP5	data/SRR3185987_1.fastq.gz	control
+ChIP6	data/SRR3185988_1.fastq.gz	control
