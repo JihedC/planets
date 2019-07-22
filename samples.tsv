@@ -1,0 +1,5 @@
+sampleID	tissue	condition	R1	R2
+DNA1	Spleen	mutant	/exports/humgen/jihed/maja_heatmaps/results/WGBS/FVBNJ/WGBS-snakemake/data/DNA-1/FCHJYTCCCXY_L6_MOUwkiHAAAAAAA-8_1.fq.gz	/exports/humgen/jihed/maja_heatmaps/results/WGBS/FVBNJ/WGBS-snakemake/data/DNA-1/FCHJYTCCCXY_L6_MOUwkiHAAAAAAA-8_2.fq.gz
+DNA2	Spleen	mutant	/exports/humgen/jihed/maja_heatmaps/results/WGBS/FVBNJ/WGBS-snakemake/data/DNA-2/FCHJYTCCCXY_L7_MOUwkiHAAABAAA-9_1.fq.gz	/exports/humgen/jihed/maja_heatmaps/results/WGBS/FVBNJ/WGBS-snakemake/data/DNA-2/FCHJYTCCCXY_L7_MOUwkiHAAABAAA-9_2.fq.gz
+DNA3	Spleen	wt	/exports/humgen/jihed/maja_heatmaps/results/WGBS/FVBNJ/WGBS-snakemake/data/DNA-3/FCHK327CCXY_L1_MOUwkiHAAACAAA-13_1.fq.gz	/exports/humgen/jihed/maja_heatmaps/results/WGBS/FVBNJ/WGBS-snakemake/data/DNA-3/FCHK327CCXY_L1_MOUwkiHAAACAAA-13_2.fq.gz
+DNA3	Spleen	wt	/exports/humgen/jihed/maja_heatmaps/results/WGBS/FVBNJ/WGBS-snakemake/data/DNA-4/FCHJYTCCCXY_L8_MOUwkiHAAADAAA-16_1.fq.gz	/exports/humgen/jihed/maja_heatmaps/results/WGBS/FVBNJ/WGBS-snakemake/data/DNA-4/FCHJYTCCCXY_L8_MOUwkiHAAADAAA-16_2.fq.gz
