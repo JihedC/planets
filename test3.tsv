@@ -1,0 +1,7 @@
+sampleID	condition	R1	R2
+RNA-1	control	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-1_1.fastq.gz	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-1_2.fastq.gz
+RNA-2	control	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-2_1.fastq.gz	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-2_2.fastq.gz
+RNA-3	control	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-3_1.fastq.gz	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-3_2.fastq.gz
+RNA-4	mutant	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-4_1.fastq.gz	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-4_2.fastq.gz
+RNA-5	mutant	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-5_1.fastq.gz	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-5_2.fastq.gz
+RNA-6	mutant	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-6_1.fastq.gz	/exports/humgen/jihed/Cdca7_rnaseq_mESC/RNA-seq-snakemake/data/RNA-6_2.fastq.gz
