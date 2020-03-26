@@ -1,7 +1,7 @@
 sampleID	genotype	tissue	fq1	fq2
-Leaf	control	Leaf	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404309.fastq	
-Leaf	control	Leaf	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404310.fastq	
-Flower_Bud	mutant	Flower_Bud	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404313.fastq	
-Flower_Bud	mutant	Flower_Bud	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404314.fastq	
-Fruit	mutant	Fruit	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404328.fastq	
-Fruit	mutant	Fruit	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404329.fastq	
+Leaf1	control	Leaf	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404309.fastq	
+Leaf2	control	Leaf	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404310.fastq	
+Flower_Bud1	mutant	Flower_Bud	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404313.fastq	
+Flower_Bud2	mutant	Flower_Bud	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404314.fastq	
+Fruit1	mutant	Fruit	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404328.fastq	
+Fruit2	mutant	Fruit	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404329.fastq	
