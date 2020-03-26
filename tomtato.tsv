@@ -1,0 +1,7 @@
+sampleID	condition	R1	R2
+Leaf	control	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404309.fastq	 
+Leaf	control	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404310.fastq	 
+Flower_Bud	mutant	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404313.fastq	 
+Flower_Bud	mutant	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404314.fastq	 
+Fruit	mutant	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404328.fastq	 
+Fruit	mutant	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404329.fastq	 
