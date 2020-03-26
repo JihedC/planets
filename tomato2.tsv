@@ -1,4 +1,4 @@
-sampleID	genotype	tissue	fq1	fq2
+sample	genotype	tissue	fq1	fq2
 Leaf1	control	Leaf	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404309.fastq	
 Leaf2	control	Leaf	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404310.fastq	
 Flower_Bud1	mutant	Flower_Bud	/exports/humgen/jihed/test/rnaseq/RNA-seq-snakemake/data/SRR404313.fastq	
