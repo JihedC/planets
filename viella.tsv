@@ -1,0 +1,3 @@
+sampleID	condition	type	R1	R2
+DN3_Rep1	WT	Thymus	/exports/humgen/vdellachiara/ATACseq_Thy/SRR5183780.fastq	-
+DN3_Rep2	WT	Thymus	/exports/humgen/vdellachiara/ATACseq_Thy/SRR5183781.fastq	-
