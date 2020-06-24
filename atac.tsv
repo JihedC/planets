@@ -1,0 +1,5 @@
+sampleID	condition	type	R1	R2
+WT8	WT	mESC	/exports/humgen/jihed/ATAC_Morc3/sample_8_R1.fastq.gz	/exports/humgen/jihed/ATAC_Morc3/sample_8_R2.fastq.gz
+WT4-1	WT	mESC	/exports/humgen/jihed/ATAC_Morc3/sample_4_1_R1.fastq.gz	/exports/humgen/jihed/ATAC_Morc3/sample_4_1_R2.fastq.gz
+KO12	KO	mESC	/exports/humgen/jihed/ATAC_Morc3/ample_12_R1.fastq.gz	/exports/humgen/jihed/ATAC_Morc3/sample_12_R2.fastq.gz
+WHY4-7	KO	mESC	/exports/humgen/jihed/ATAC_Morc3/sample_4_3_R1.fastq.gz	/exports/humgen/jihed/ATAC_Morc3/sample_4_3_R2.fastq.gz
