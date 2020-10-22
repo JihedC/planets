@@ -2,3 +2,5 @@ sample	fq1	condition
 "h3k4me1"	/exports/humgen/jihed/histone/h3k4me1/SRR2173757_1.fastq	treatment
 "h3k27Ac"	/exports/humgen/jihed/histone/h3k27ac/SRR2173759_1.fastq	treatment
 input	/exports/humgen/jihed/histone/input/SRR2173769_1.fastq	control
+"h3k27me3"	/exports/humgen/jihed/histone/h3k27me3/SRX5891230_1.fastq.gz	treament
+input_Wu	/exports/humgen/jihed/histone/h3k27me3/SRX5891232_1.fastq.gz	control
