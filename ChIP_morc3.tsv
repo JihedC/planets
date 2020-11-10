@@ -1,5 +1,5 @@
 sample	fq1	condition
-ChIP1	data/SRR3185983_1.fastq.gz	treatment
+ChIP1. data/SRR3185983_1.fastq.gz	treatment
 ChIP2	data/SRR3185984_1.fastq.gz	treatment
 ChIP3	data/SRR3185985_1.fastq.gz	treatment
 ChIP4	data/SRR3185986_1.fastq.gz	control
