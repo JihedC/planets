@@ -1,7 +1,0 @@
-sampleID	condition	type	R1	R2
-ctcf1	WT	mESC	/exports/humgen/jihed/histone/ctfc/SRR3999640_1.fastq	/exports/humgen/jihed/histone/ctfc/SRR3999640_2.fastq
-ctcf2	WT	mESC	/exports/humgen/jihed/histone/ctfc/SRR3999641_1.fastq	/exports/humgen/jihed/histone/ctfc/SRR3999641_2.fastq
-ctcf3	WT	mESC	/exports/humgen/jihed/histone/ctfc/SRR3999642_1.fastq	/exports/humgen/jihed/histone/ctfc/SRR3999642_2.fastq
-ctfc4	WT	mESC	/exports/humgen/jihed/histone/ctfc/SRR3999643_1.fastq	/exports/humgen/jihed/histone/ctfc/SRR3999643_1.fastq
-Chip1_h3k9me2	WT	mESC	/exports/humgen/jihed/histone/h3k9me2/SRR3135546_1.fastq	/exports/humgen/jihed/histone/h3k9me2/SRR3135546_2.fastq
-Chip2_h3k9me2	WT	mESC	/exports/humgen/jihed/histone/h3k9me2/SRR3135545_1.fastq	/exports/humgen/jihed/histone/h3k9me2/SRR3135545_2.fastq

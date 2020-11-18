@@ -1,0 +1,7 @@
+sampleID	condition	type	R1	R2
+h3_3_IP	WT	mESC	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRR12173014_1.fastq.gz	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRR12173014_2.fastq.gz
+h3_3_input	WT	mESC	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRR12173013_1.fastq.gz	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRR12173013_2.fastq.gz
+Smarcad1_input	WT	mESC	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRX8687779_1.fastq.gz	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRX8687779_2.fastq.gz
+Smarcad1_IP	WT	mESC	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRX8687780_1.fastq.gz	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRX8687780_2.fastq.gz
+ATAC_WT	WT	mESC	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRX8687773_1.fastq.gz	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRX8687773_2.fastq.gz
+ATAC_Smarcad1	WT	mESC	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRX8152442_1.fastq.gz	/exports/humgen/jihed/histone_2i_mesc/raw_fastq/h3.3/SRX8152442_2.fastq.gz
