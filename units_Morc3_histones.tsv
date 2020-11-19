@@ -1,0 +1,11 @@
+bed	location
+morc3	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/morc3.bw
+h3k4me3	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/h3k4me3.bw
+h3k9me3	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/h3k9me3.bw
+h3k27me3	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/h3k27me3.bw
+h3k4me1	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/h3k4me1.bw
+h3k9me2	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/h3k9me2.bw
+h3k27Ac	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/h3k27Ac.bw
+atac_wt	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/atac_wt.bw
+atac_ko	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/atac_ko.bw
+ctcf1	/exports/humgen/jihed/histone_2i_mesc/bigwig_rpkm/ctcf1
