@@ -1,0 +1,9 @@
+sample	fq1	condition
+WT_A	/exports/humgen/jihed/Morc3_sumo/mMorc3_rawdata/demux_20190629_SxaQSEQsYAP068L7/MORC3_WT_FLAG_E9_1.fastq.gz	control
+WT_B	/exports/humgen/jihed/Morc3_sumo/mMorc3_rawdata/demux_20190629_SxaQSEQsYAP068L7/MORC3_WT_FLAG_F9_1.fastq.gz	control
+WT_C	/exports/humgen/jihed/Morc3_sumo/mMorc3_rawdata/demux_20190629_SxaQSEQsYAP068L7/MORC3_WT_FLAG_G9_1.fastq.gz	control
+WT_inp	/exports/humgen/jihed/Morc3_sumo/mMorc3_rawdata/demux_20190629_SxaQSEQsYAP068L7/WT_inputs_H9_1.fastq.gz	control
+5KRA	/exports/humgen/jihed/Morc3_sumo/mMorc3_rawdata/demux_20190629_SxaQSEQsYAP068L7/MORC3_5KR_FLAG_A9_1.fastq.gz	test
+5KRB	/exports/humgen/jihed/Morc3_sumo/mMorc3_rawdata/demux_20190629_SxaQSEQsYAP068L7/MORC3_5KR_FLAG_B9_1.fastq.gz	test
+5KRC	/exports/humgen/jihed/Morc3_sumo/mMorc3_rawdata/demux_20190629_SxaQSEQsYAP068L7/MORC3_5KR_FLAG_C9_1.fastq.gz	test
+5KR_inp	/exports/humgen/jihed/Morc3_sumo/mMorc3_rawdata/demux_20190629_SxaQSEQsYAP068L7/5KR_inputs_D9_1.fastq.gz	test
