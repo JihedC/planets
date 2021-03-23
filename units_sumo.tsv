@@ -1,0 +1,7 @@
+sample	fq1	condition
+SUMO1rep1	/exports/humgen/jihed/sumo_chIP_mESc/data/SRR5572636.fastq	treatment
+SUMO1rep2	/exports/humgen/jihed/sumo_chIP_mESc/data/SRR5572637.fastq	treatment
+SUMO2rep1	/exports/humgen/jihed/sumo_chIP_mESc/data/SRR5572638.fastq	treatment
+SUMO2rep2	/exports/humgen/jihed/sumo_chIP_mESc/data/SRR5572639.fastq	treatment
+SUMOinp1	/exports/humgen/jihed/sumo_chIP_mESc/data/SRR5572640.fastq	control
+SUMOinp2	/exports/humgen/jihed/sumo_chIP_mESc/data/SRR5572641.fastq	control
