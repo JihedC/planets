@@ -1,0 +1,3 @@
+sampleID	condition	type	R1	R2
+DMSO	control	human	/exports/humgen/jihed/h3k27me3_zbtb24/data/I1_1.fastq.gz	/exports/humgen/jihed/h3k27me3_zbtb24/data/I1_2.fastq.gz
+ML792	treatment	human	/exports/humgen/jihed/h3k27me3_zbtb24/data/J1_1.fastq.gz	/exports/humgen/jihed/h3k27me3_zbtb24/data/J1_2.fastq.gz
