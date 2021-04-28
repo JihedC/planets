@@ -1,0 +1,6 @@
+sampleID	condition	type	R1	R2
+ChIP1	WT	mESC	/exports/humgen/jihed/h3k27me3_zbtb24/data/D1_1.fastq.gz	/exports/humgen/jihed/h3k27me3_zbtb24/data/D1_2.fastq.gz
+ChIP2	WT	mESC	/exports/humgen/jihed/h3k27me3_zbtb24/data/E1_1.fastq.gz	/exports/humgen/jihed/h3k27me3_zbtb24/data/E1_2.fastq.gz
+ChIP3	KO	mESC	/exports/humgen/jihed/h3k27me3_zbtb24/data/F1_1.fastq.gz	/exports/humgen/jihed/h3k27me3_zbtb24/data/F1_2.fastq.gz
+ChIP4	KO	mESC	/exports/humgen/jihed/h3k27me3_zbtb24/data/G1_1.fastq.gz	/exports/humgen/jihed/h3k27me3_zbtb24/data/G1_2.fastq.gz
+ChIP5	input	mESC	/exports/humgen/jihed/h3k27me3_zbtb24/data/H1_1.fastq.gz	/exports/humgen/jihed/h3k27me3_zbtb24/data/H1_2.fastq.gz
