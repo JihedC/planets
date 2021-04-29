@@ -1,0 +1,15 @@
+sample	fq1	condition
+inputsumoM43	/exports/humgen/jihed/SUMO_data/MommeD/MORC34-3_inputs_1.fastq.gz	control
+sumoM43A	/exports/humgen/jihed/SUMO_data/MommeD/MORC34-3_SUMOChIP_rep1_1.fastq.gz	treatment
+sumoM43B	/exports/humgen/jihed/SUMO_data/MommeD/MORC34-3_SUMOChIP_rep2_1.fastq.gz	treatment
+inputsumoMwt	/exports/humgen/jihed/SUMO_data/MommeD/WT_inputs_1.fastq.gz	control
+sumoMWT1	/exports/humgen/jihed/SUMO_data/MommeD/WT_SUMOChIP_rep1_1.fastq.gz	treatment
+sumoMWT2	/exports/humgen/jihed/SUMO_data/MommeD/WT_SUMOChIP_rep2_1.fastq.gz	treatment
+sumocrinput1	/exports/humgen/jihed/SUMO_data/GFP3E3_SUMOChIP_rep1_input_1.fastq.gz	control
+sumocrIP1	/exports/humgen/jihed/SUMO_data/GFP3E3_SUMOChIP_rep1_1.fastq.gz	treatment
+sumocrinput2	/exports/humgen/jihed/SUMO_data/GFP3E3_SUMOChIP_rep2_input_1.fastq.gz	control
+sumocrIP	2/exports/humgen/jihed/SUMO_data/GFP3E3_SUMOChIP_rep2_1.fastq.gz	treatment
+sumoctrlinp1	/exports/humgen/jihed/SUMO_data/MORC3E1_SUMOChIP_rep1_input_1.fastq.gz	control
+sumoctrlIP1	/exports/humgen/jihed/SUMO_data/MORC3E1_SUMOChIP_rep1_1.fastq.gz	treatment
+sumoctrlinp2	/exports/humgen/jihed/SUMO_data/MORC3E1_SUMOChIP_rep2_input_1.fastq.gz	control
+sumoctrlIP2	/exports/humgen/jihed/SUMO_data/MORC3E1_SUMOChIP_rep2_1.fastq.gz	treatment
