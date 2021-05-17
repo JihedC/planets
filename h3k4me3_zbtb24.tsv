@@ -1,0 +1,6 @@
+sampleID	condition	type	R1	R2
+h3k4wt1	WT	mESC	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-001_H3K4me3_mESC_2_L004_R1.fastq.gz	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-001_H3K4me3_mESC_2_L004_R2.fastq.gz
+h3k4wt2	WT	mESC	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-002_H3K4me3_mESC_7_L004_R1.fastq.gz	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-002_H3K4me3_mESC_7_L004_R2.fastq.gz
+h3k4ko1	KO	mESC	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-003_H3K4me3_mESC_5_L004_R1.fastq.gz	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-003_H3K4me3_mESC_5_L004_R2.fastq.gz
+h3k4ko2	KO	mESC	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-004_H3K4me3_mESC_6_L004_R1.fastq.gz	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-004_H3K4me3_mESC_6_L004_R2.fastq.gz
+h3k4input	input	mESC	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-005_H3K4me3_mESC_1_L004_R1.fastq.gz	/exports/humgen/jihed/zbtb24_h3k4me3/HJ3LKDSXX_103638-001-001-005_H3K4me3_mESC_1_L004_R2.fastq.gz
