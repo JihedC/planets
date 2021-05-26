@@ -1,0 +1,7 @@
+sampleID	condition	type	R1	R2
+RNA1	WT	mESc	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-001_ATCACGAT_L007_R1.fastq.gz	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-001_ATCACGAT_L007_R2.fastq.gz
+RNA2	WT	mESc	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-002_CGATGTAT_L007_R1.fastq.gz	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-002_CGATGTAT_L007_R2.fastq.gz
+RNA3	WT	mESc	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-003_TTAGGCAT_L007_R1.fastq.gz	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-003_TTAGGCAT_L007_R2.fastq.gz
+RNA4	KO	mESc	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-004_TGACCAAT_L007_R1.fastq.gz	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-004_TGACCAAT_L007_R2.fastq.gz
+RNA5	KO	mESc	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-005_ACAGTGAT_L007_R1.fastq.gz	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-005_ACAGTGAT_L007_R2.fastq.gz
+RNA6	KO	mESc	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-006_GCCAATAT_L007_R1.fastq.gz	/exports/humgen/jihed/zbtb24_rna_seq/C8E4GANXX_102767-001-006_GCCAATAT_L007_R2.fastq.gz
