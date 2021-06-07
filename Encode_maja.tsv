@@ -1,0 +1,5 @@
+sample	fq1	condition
+H3K4me3wt1	/exports/humgen/jihed/Maja_encode/H3K4me3/SRR578318_1.fastq	WT
+H3K4me3wt2	/exports/humgen/jihed/Maja_encode/H3K4me3/SRR578319_1.fastq	WT
+H3K27me3wt1	/exports/humgen/jihed/Maja_encode/H3K27me3/SRR566933_1.fastq	WT
+H3K27me3wt2	/exports/humgen/jihed/Maja_encode/H3K27me3/SRR566934_1.fastq	WT
