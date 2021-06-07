@@ -1,0 +1,7 @@
+sampleID	condition	type	R1	R2
+RNA1	WT	mESc	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAAARAAPEI-201_L8_1.fq.gz	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAAARAAPEI-201_L8_2.fq.gz
+RNA2	WT	mESc	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAABRAAPEI-202_L8_1.fq.gz	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAABRAAPEI-202_L8_2.fq.gz
+RNA3	WT	mESc	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAACRAAPEI-203_L8_1.fq.gz	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAACRAAPEI-203_L8_2.fq.gz
+RNA4	KO	mESc	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAADRBAPEI-205_L8_1.fq.gz	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAADRBAPEI-205_L8_2.fq.gz
+RNA5	KO	mESc	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAAERAAPEI-206_L8_1.fq.gz	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAAERAAPEI-206_L8_2.fq.gz
+RNA6	KO	mESc	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAAFRAAPEI-207_L8_1.fq.gz	/exports/humgen/jihed/Zbtb24_rna_2i/FCC6N7WACXX-MOUeoqEAAFRAAPEI-207_L8_2.fq.gz
